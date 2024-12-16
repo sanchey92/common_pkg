@@ -1,0 +1,1 @@
+The repository contains common components for other projects
